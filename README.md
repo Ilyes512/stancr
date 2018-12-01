@@ -5,7 +5,9 @@
 
 ---
 
-Stancr: A tool to help you bootstrap your future project's.
+<p align="center">
+🔥 Stancr: A template (boilerplate) manager for scaffolding your future projects. 🔥
+</p>
 
 # WIP
 
