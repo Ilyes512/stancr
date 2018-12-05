@@ -15,4 +15,4 @@ This project is still a Work in Progress. Checkout [Ilyes512/boilr](https://gith
 
 # Note
 
-This project is inspired by [tmrts](https://github.com/tmrts/boilr). I first forked the project [Ilyes512/boilr](https://github.com/Ilyes512/boilr), but decided to create a new project to get some more hands-on experience with Golang.
+This project is inspired by [tmrts/boilr](https://github.com/tmrts/boilr). I first forked the project [Ilyes512/boilr](https://github.com/Ilyes512/boilr), but decided to create a new project to get some more hands-on experience with Golang.

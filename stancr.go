@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"github.com/Ilyes512/stancr/cmd"
+)
 
 func main() {
-	fmt.Println("Hello Stancr!")
+	cmd.Execute()
 }
